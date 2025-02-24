@@ -1,2 +1,2 @@
 # How to work #
-Please install the exe file for it to work.
+Please install the Ink file for it to work.
